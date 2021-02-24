@@ -1,0 +1,2 @@
+# laraboot11
+ inventoryProducts
